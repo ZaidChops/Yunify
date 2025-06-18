@@ -26,7 +26,7 @@ const ContactUsPage = () => {
           </h1>
         </div>
       </div>
-      <div className="min-h-screen bg-blue-50 flex flex-col lg:flex-row p-6 lg:p-16 gap-8">
+      <div className="min-h-auto bg-blue-50 flex flex-col lg:flex-row p-6 lg:p-16 gap-8">
         {/* Form Section */}
         <div className="flex-1 p-6 rounded-lg shadow-lg">
           <h2 data-aos="fade-up-right" className="text-3xl font-bold mb-6 text-gray-900">
