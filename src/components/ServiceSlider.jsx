@@ -10,6 +10,7 @@ import uiux from "../assets/uiuxImg.jpg"
 import hrimg from "../assets/hrImg.jpg"
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+import { Link } from 'react-router-dom';
 
 const services = [
   {
@@ -83,12 +84,12 @@ const ServiceSlider = () => {
         ))}
       </Swiper>
       <div data-aos="zoom-in-up" className="text-center mt-10">
-            <a
-              href="/services"
+            <Link
+              to="/services"
               className="bg-purple-600 hover:bg-purple-700 text-white font-semibold py-3 px-8 rounded-lg text-lg transition-all duration-300 transform hover:scale-105 inline-block"
             >
               View All Services
-            </a>
+            </Link>
           </div>
     </section>
   );
