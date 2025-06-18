@@ -25,7 +25,7 @@ import {
   Package,
 } from "lucide-react";
 // import labour from "../assets/appDevimg.jpg";
-import payroll from "../assets/Service-images/payroll.jpg";
+import payroll from "../assets/Service-images/Payroll.jpg";
 import permanentStaf from "../assets/Service-images/permanent-staffing.jpg";
 import temporaryStaf from "../assets/Service-images/temporary-staffing.jpg";
 import recruitmentSolution from "../assets/Service-images/recruitment-solutions.jpg";
