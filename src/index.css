@@ -74,6 +74,12 @@ html {
   outline: 1px solid red;
 } */
 
-body {
+/* body {
   overflow-x: hidden;
+} */
+
+html, body {
+  overflow-x: hidden;
+  width: 100%;
+  max-width: 100vw;
 }
