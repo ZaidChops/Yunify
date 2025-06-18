@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import axis from "../assets/axis.png";
+import axis from "../assets/Axis.png";
 import amazon from "../assets/amazon.png";
 import flipcart from "../assets/flipkart-logo.png";
 import myntra from "../assets/myntra.png";
